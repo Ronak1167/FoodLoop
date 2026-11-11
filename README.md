@@ -5,6 +5,13 @@
 > **Batch**: B2 | **Academic Year**: 2026–2027  
 > **Faculty Mentors & Evaluators**: Dr. Sherry Garg & Dr. Lalita Mishra  
 
+[![FoodLoop CI](https://github.com/Ronak1167/FoodLoop/actions/workflows/ci.yml/badge.svg)](https://github.com/Ronak1167/FoodLoop/actions)
+![Tests](https://img.shields.io/badge/DSA%20Tests-14%2F14%20Passing-brightgreen?style=flat-square&logo=node.js)
+![SDG](https://img.shields.io/badge/UN%20SDG-12%20%26%209-orange?style=flat-square)
+![Node](https://img.shields.io/badge/Node.js-%3E%3D18.0.0-339933?style=flat-square&logo=nodedotjs)
+![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)
+![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-success?style=flat-square&logo=render)
+
 ---
 
 ### 👥 Team Members & Project Attribution
