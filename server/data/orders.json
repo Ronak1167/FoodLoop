@@ -1,0 +1,108 @@
+[
+  {
+    "orderNumber": "FL-9024",
+    "customerId": "5273fc4ebe0af7a6d7046a07",
+    "customerName": "Aarav Sharma",
+    "customerPhone": "+91 98765 43210",
+    "restaurantId": "fc941ad0cd80b043a6b792a0",
+    "restaurantName": "GreenBowl Organic & Bowls",
+    "deliveryPartnerId": "214b32ae37b8b3019cbab14d",
+    "deliveryPartnerName": "Rohan Das",
+    "deliveryPartnerPhone": "+91 98444 55667",
+    "deliveryPartnerVehicle": "Ather 450X (100% Zero-Emission EV)",
+    "items": [
+      {
+        "name": "Avocado Quinoa Power Bowl",
+        "price": 320,
+        "quantity": 1,
+        "isSurplus": false
+      },
+      {
+        "name": "Chef Surplus: Sunset Harvest Quinoa Bowl",
+        "price": 150,
+        "quantity": 1,
+        "isSurplus": true
+      }
+    ],
+    "subtotal": 470,
+    "deliveryFee": 30,
+    "ecoPackagingFee": 15,
+    "totalAmount": 515,
+    "noCutlery": true,
+    "ecoPackagingSelected": true,
+    "ecoPointsEarned": 45,
+    "status": "Out for Delivery",
+    "dijkstraRoute": {
+      "sourceNode": "N2",
+      "destinationNode": "N7",
+      "totalDistanceKm": 1.6,
+      "estimatedMinutes": 8,
+      "waypoints": [
+        "N2",
+        "N7"
+      ],
+      "roadSegments": [
+        "Sushant Lok Cross Road"
+      ]
+    },
+    "statusHistory": [
+      {
+        "status": "Placed",
+        "timestamp": "2026-11-11T06:04:51.647Z",
+        "note": "Order placed by customer with No Cutlery option."
+      },
+      {
+        "status": "Accepted",
+        "timestamp": "2026-11-11T06:07:51.647Z",
+        "note": "Kitchen accepted order."
+      },
+      {
+        "status": "Preparing",
+        "timestamp": "2026-11-11T06:11:51.647Z",
+        "note": "Packed in biodegradable boxes."
+      },
+      {
+        "status": "Ready for Pickup",
+        "timestamp": "2026-11-11T06:19:51.647Z",
+        "note": "Packaged at dispatch counter."
+      },
+      {
+        "status": "Picked Up",
+        "timestamp": "2026-11-11T06:22:51.647Z",
+        "note": "Assigned to Rohan Das via Min-Heap Priority Queue."
+      },
+      {
+        "status": "Out for Delivery",
+        "timestamp": "2026-11-11T06:26:51.647Z",
+        "note": "Courier en route via Dijkstra Shortest Path."
+      }
+    ],
+    "deliveryAddress": {
+      "street": "42 Lotus Boulevard, Tower 5",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zipCode": "122002",
+      "coordinates": [
+        77.076,
+        28.46
+      ]
+    },
+    "restaurantAddress": {
+      "street": "Shop 12, Galleria Market, DLF Phase 4",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zipCode": "122002",
+      "coordinates": [
+        77.086,
+        28.471
+      ]
+    },
+    "paymentStatus": "Paid",
+    "paymentMethod": "UPI",
+    "wasteSavedKg": 0.45,
+    "createdAt": "2026-11-11T06:04:51.647Z",
+    "_id": "d9ed0e0db5ad20cd4baf31dc",
+    "id": "d9ed0e0db5ad20cd4baf31dc",
+    "updatedAt": "2026-11-11T06:29:51.647Z"
+  }
+]

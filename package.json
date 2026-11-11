@@ -1,0 +1,25 @@
+{
+  "name": "foodloop",
+  "version": "1.0.0",
+  "description": "FoodLoop – Smart & Sustainable Food Delivery System (SDG 12 & SDG 9)",
+  "scripts": {
+    "start": "node server/src/server.js",
+    "server": "node server/src/server.js",
+    "client": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "seed": "cd server && npm run seed",
+    "test": "cd server && npm test"
+  },
+  "keywords": [
+    "food-delivery",
+    "sustainability",
+    "sdg-12",
+    "sdg-9",
+    "food-rescue",
+    "zero-waste",
+    "react",
+    "node"
+  ],
+  "author": "FoodLoop Team",
+  "license": "ISC"
+}

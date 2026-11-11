@@ -1,0 +1,171 @@
+[
+  {
+    "name": "Anthea Loop",
+    "email": "admin@foodloop.com",
+    "password": "$2a$10$96IoTrJPU29q77VXZBwABOZwQIapyNKJbjlyLXEJ8qvhyF14nagMO",
+    "role": "admin",
+    "phone": "+91 99999 88888",
+    "title": "Platform Director & SDG Compliance Lead",
+    "_id": "8a5cc1e514225177227c973d",
+    "id": "8a5cc1e514225177227c973d",
+    "createdAt": "2026-11-11T06:29:51.632Z",
+    "updatedAt": "2026-11-11T06:29:51.632Z"
+  },
+  {
+    "name": "Sunil Yadav",
+    "email": "sunil.delivery@foodloop.com",
+    "phone": "+91 98444 99001",
+    "vehicle": "Standard 110cc Petrol Scooter",
+    "activeStatus": "available",
+    "assignedNode": "N4",
+    "currentLocation": {
+      "lat": 28.468,
+      "lng": 77.062
+    },
+    "activeDeliveriesCount": 0,
+    "completedDeliveries": 19,
+    "rating": 4.6,
+    "totalEarnings": 1650,
+    "password": "$2a$10$96IoTrJPU29q77VXZBwABOZwQIapyNKJbjlyLXEJ8qvhyF14nagMO",
+    "role": "delivery_partner",
+    "_id": "60c0464ae98929e8b5ffb413",
+    "id": "60c0464ae98929e8b5ffb413",
+    "createdAt": "2026-11-11T06:29:51.632Z",
+    "updatedAt": "2026-11-11T06:29:51.632Z"
+  },
+  {
+    "name": "Vikas Mehra",
+    "email": "vikas.delivery@foodloop.com",
+    "phone": "+91 98444 77889",
+    "vehicle": "Hero Electric Optima EV",
+    "activeStatus": "available",
+    "assignedNode": "N7",
+    "currentLocation": {
+      "lat": 28.46,
+      "lng": 77.076
+    },
+    "activeDeliveriesCount": 2,
+    "completedDeliveries": 28,
+    "rating": 4.7,
+    "totalEarnings": 2150,
+    "password": "$2a$10$96IoTrJPU29q77VXZBwABOZwQIapyNKJbjlyLXEJ8qvhyF14nagMO",
+    "role": "delivery_partner",
+    "_id": "0571b94950ed2dbd081b83aa",
+    "id": "0571b94950ed2dbd081b83aa",
+    "createdAt": "2026-11-11T06:29:51.632Z",
+    "updatedAt": "2026-11-11T06:29:51.632Z"
+  },
+  {
+    "name": "Priya Sundaram",
+    "email": "priya.delivery@foodloop.com",
+    "phone": "+91 98444 33445",
+    "vehicle": "TVS iQube Electric Scooter",
+    "activeStatus": "available",
+    "assignedNode": "N1",
+    "currentLocation": {
+      "lat": 28.495,
+      "lng": 77.088
+    },
+    "activeDeliveriesCount": 0,
+    "completedDeliveries": 51,
+    "rating": 4.95,
+    "totalEarnings": 4420,
+    "password": "$2a$10$96IoTrJPU29q77VXZBwABOZwQIapyNKJbjlyLXEJ8qvhyF14nagMO",
+    "role": "delivery_partner",
+    "_id": "6a95cad694c14f0f122d8455",
+    "id": "6a95cad694c14f0f122d8455",
+    "createdAt": "2026-11-11T06:29:51.631Z",
+    "updatedAt": "2026-11-11T06:29:51.631Z"
+  },
+  {
+    "name": "Amit Kumar",
+    "email": "amit.delivery@foodloop.com",
+    "phone": "+91 98444 11223",
+    "vehicle": "Ola S1 Pro (100% Electric EV)",
+    "activeStatus": "available",
+    "assignedNode": "N5",
+    "currentLocation": {
+      "lat": 28.482,
+      "lng": 77.0805
+    },
+    "activeDeliveriesCount": 1,
+    "completedDeliveries": 35,
+    "rating": 4.8,
+    "totalEarnings": 2940,
+    "password": "$2a$10$96IoTrJPU29q77VXZBwABOZwQIapyNKJbjlyLXEJ8qvhyF14nagMO",
+    "role": "delivery_partner",
+    "_id": "31bf6bf902a60f1232bbd8a5",
+    "id": "31bf6bf902a60f1232bbd8a5",
+    "createdAt": "2026-11-11T06:29:51.631Z",
+    "updatedAt": "2026-11-11T06:29:51.631Z"
+  },
+  {
+    "name": "Rohan Das",
+    "email": "delivery@foodloop.com",
+    "phone": "+91 98444 55667",
+    "vehicle": "Ather 450X (100% Zero-Emission EV)",
+    "activeStatus": "available",
+    "assignedNode": "N2",
+    "currentLocation": {
+      "lat": 28.4715,
+      "lng": 77.0862
+    },
+    "activeDeliveriesCount": 0,
+    "completedDeliveries": 42,
+    "rating": 4.9,
+    "totalEarnings": 3820,
+    "password": "$2a$10$96IoTrJPU29q77VXZBwABOZwQIapyNKJbjlyLXEJ8qvhyF14nagMO",
+    "role": "delivery_partner",
+    "_id": "214b32ae37b8b3019cbab14d",
+    "id": "214b32ae37b8b3019cbab14d",
+    "createdAt": "2026-11-11T06:29:51.631Z",
+    "updatedAt": "2026-11-11T06:29:51.631Z"
+  },
+  {
+    "name": "Chef Maya Patel",
+    "email": "greenbowl@foodloop.com",
+    "password": "$2a$10$96IoTrJPU29q77VXZBwABOZwQIapyNKJbjlyLXEJ8qvhyF14nagMO",
+    "role": "restaurant_owner",
+    "phone": "+91 98111 22334",
+    "address": {
+      "street": "Shop 12, Galleria Market, DLF 4",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zipCode": "122002"
+    },
+    "_id": "9be5944fa1c890f7ec7eadb7",
+    "id": "9be5944fa1c890f7ec7eadb7",
+    "createdAt": "2026-11-11T06:29:51.631Z",
+    "updatedAt": "2026-11-11T06:29:51.631Z"
+  },
+  {
+    "name": "Aarav Sharma",
+    "email": "customer@foodloop.com",
+    "password": "$2a$10$96IoTrJPU29q77VXZBwABOZwQIapyNKJbjlyLXEJ8qvhyF14nagMO",
+    "role": "customer",
+    "phone": "+91 98765 43210",
+    "address": {
+      "street": "42 Lotus Boulevard, Tower 5",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zipCode": "122002",
+      "coordinates": [
+        77.076,
+        28.46
+      ]
+    },
+    "dietaryPreference": "veg",
+    "favoriteCuisines": [
+      "Healthy Bowls",
+      "North Indian",
+      "Artisan Bakery"
+    ],
+    "rewardPoints": 340,
+    "totalMealsRescued": 9,
+    "totalWasteSavedKg": 4.1,
+    "_id": "5273fc4ebe0af7a6d7046a07",
+    "id": "5273fc4ebe0af7a6d7046a07",
+    "createdAt": "2026-11-11T06:29:51.630Z",
+    "updatedAt": "2026-11-11T06:29:51.630Z"
+  }
+]

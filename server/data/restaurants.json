@@ -1,0 +1,671 @@
+[
+  {
+    "name": "The Mediterranean Breeze",
+    "description": "Greek salads with Kalamata olives, grilled halloumi wraps, and stuffed vine leaves in compostable boxes.",
+    "nodeId": "N2",
+    "address": {
+      "street": "Galleria 2nd Floor, DLF 4",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zipCode": "122002",
+      "coordinates": [
+        77.086,
+        28.471
+      ]
+    },
+    "cuisines": [
+      "Mediterranean",
+      "Healthy Bowls",
+      "Salads"
+    ],
+    "rating": 4.8,
+    "totalRatings": 265,
+    "priceRange": "$$",
+    "bannerImage": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=1200&q=80",
+    "ecoPackagingAvailable": true,
+    "ecoPackagingFee": 15,
+    "mealsRescuedCount": 350,
+    "wastePreventedKg": 157.5,
+    "deliveryTime": "24 mins",
+    "deliveryFee": 30,
+    "ownerId": "9be5944fa1c890f7ec7eadb7",
+    "status": "approved",
+    "minOrder": 150,
+    "_id": "687f13b3e43c6a2b7759d3d7",
+    "id": "687f13b3e43c6a2b7759d3d7",
+    "createdAt": "2026-11-11T06:29:51.637Z",
+    "updatedAt": "2026-11-11T06:29:51.637Z"
+  },
+  {
+    "name": "Indus Vegan Thali Co.",
+    "description": "Wholesome millet thalis, sprouted moong curry, seasonal gourd sabzi, and digestive herbal buttermilk.",
+    "nodeId": "N4",
+    "address": {
+      "street": "Sector 29 Eco Commercial Complex",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zipCode": "122001",
+      "coordinates": [
+        77.062,
+        28.468
+      ]
+    },
+    "cuisines": [
+      "Vegan",
+      "North Indian",
+      "Healthy Bowls"
+    ],
+    "rating": 4.75,
+    "totalRatings": 220,
+    "priceRange": "$",
+    "bannerImage": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=1200&q=80",
+    "ecoPackagingAvailable": true,
+    "ecoPackagingFee": 10,
+    "mealsRescuedCount": 390,
+    "wastePreventedKg": 175.5,
+    "deliveryTime": "20 mins",
+    "deliveryFee": 25,
+    "ownerId": "9be5944fa1c890f7ec7eadb7",
+    "status": "approved",
+    "minOrder": 150,
+    "_id": "01a0bbb6004df0a898144536",
+    "id": "01a0bbb6004df0a898144536",
+    "createdAt": "2026-11-11T06:29:51.637Z",
+    "updatedAt": "2026-11-11T06:29:51.637Z"
+  },
+  {
+    "name": "Soul Sourdough & Patisserie",
+    "description": "Stoneground artisanal baguettes, pistachio babka, and vegan dark chocolate entremets.",
+    "nodeId": "N11",
+    "address": {
+      "street": "Huda Market, Sector 56",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zipCode": "122011",
+      "coordinates": [
+        77.11,
+        28.428
+      ]
+    },
+    "cuisines": [
+      "Artisan Bakery",
+      "Desserts"
+    ],
+    "rating": 4.9,
+    "totalRatings": 310,
+    "priceRange": "$$",
+    "bannerImage": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=1200&q=80",
+    "ecoPackagingAvailable": true,
+    "ecoPackagingFee": 15,
+    "mealsRescuedCount": 460,
+    "wastePreventedKg": 207,
+    "deliveryTime": "22 mins",
+    "deliveryFee": 30,
+    "ownerId": "9be5944fa1c890f7ec7eadb7",
+    "status": "approved",
+    "minOrder": 150,
+    "_id": "250c102be30410973ac888a7",
+    "id": "250c102be30410973ac888a7",
+    "createdAt": "2026-11-11T06:29:51.636Z",
+    "updatedAt": "2026-11-11T06:29:51.636Z"
+  },
+  {
+    "name": "Sohna Farmstead Grill",
+    "description": "Charcoal-grilled cottage cheese skewers, wood-smoked vegetables, and fresh rosemary flatbreads.",
+    "nodeId": "N13",
+    "address": {
+      "street": "Vipul Tech Square, Sohna Road",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zipCode": "122018",
+      "coordinates": [
+        77.042,
+        28.425
+      ]
+    },
+    "cuisines": [
+      "North Indian",
+      "Grill",
+      "Healthy Bowls"
+    ],
+    "rating": 4.65,
+    "totalRatings": 190,
+    "priceRange": "$$",
+    "bannerImage": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=1200&q=80",
+    "ecoPackagingAvailable": true,
+    "ecoPackagingFee": 20,
+    "mealsRescuedCount": 290,
+    "wastePreventedKg": 130.5,
+    "deliveryTime": "32 mins",
+    "deliveryFee": 40,
+    "ownerId": "9be5944fa1c890f7ec7eadb7",
+    "status": "approved",
+    "minOrder": 150,
+    "_id": "0c331a0fa2c7a36848b222f3",
+    "id": "0c331a0fa2c7a36848b222f3",
+    "createdAt": "2026-11-11T06:29:51.636Z",
+    "updatedAt": "2026-11-11T06:29:51.636Z"
+  },
+  {
+    "name": "Bao Craft Eco Street Kitchen",
+    "description": "Fluffy steamed lotus buns filled with teriyaki mushrooms, crispy tofu, and pickled cucumber salad.",
+    "nodeId": "N16",
+    "address": {
+      "street": "Ambience Island Food Court, NH-48",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zipCode": "122002",
+      "coordinates": [
+        77.096,
+        28.505
+      ]
+    },
+    "cuisines": [
+      "Pan-Asian & Sushi",
+      "Street Food"
+    ],
+    "rating": 4.7,
+    "totalRatings": 280,
+    "priceRange": "$$",
+    "bannerImage": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=1200&q=80",
+    "ecoPackagingAvailable": true,
+    "ecoPackagingFee": 15,
+    "mealsRescuedCount": 340,
+    "wastePreventedKg": 153,
+    "deliveryTime": "28 mins",
+    "deliveryFee": 35,
+    "ownerId": "9be5944fa1c890f7ec7eadb7",
+    "status": "approved",
+    "minOrder": 150,
+    "_id": "2532d13150164a2fff108de1",
+    "id": "2532d13150164a2fff108de1",
+    "createdAt": "2026-11-11T06:29:51.636Z",
+    "updatedAt": "2026-11-11T06:29:51.636Z"
+  },
+  {
+    "name": "Punjab Heritage Conscious Kitchen",
+    "description": "Slow-cooked Dal Makhani, Amritsari organic kulchas, and tandoori paneer tikka prepared with farm-sourced milk.",
+    "nodeId": "N14",
+    "address": {
+      "street": "Main Circular Road, Sector 14 Market",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zipCode": "122001",
+      "coordinates": [
+        77.045,
+        28.478
+      ]
+    },
+    "cuisines": [
+      "North Indian",
+      "Curry",
+      "Traditional"
+    ],
+    "rating": 4.6,
+    "totalRatings": 490,
+    "priceRange": "$",
+    "bannerImage": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=1200&q=80",
+    "ecoPackagingAvailable": true,
+    "ecoPackagingFee": 15,
+    "mealsRescuedCount": 520,
+    "wastePreventedKg": 234,
+    "deliveryTime": "25 mins",
+    "deliveryFee": 30,
+    "ownerId": "9be5944fa1c890f7ec7eadb7",
+    "status": "approved",
+    "minOrder": 150,
+    "_id": "03e9bb2f2c5ead4832d2d4d0",
+    "id": "03e9bb2f2c5ead4832d2d4d0",
+    "createdAt": "2026-11-11T06:29:51.636Z",
+    "updatedAt": "2026-11-11T06:29:51.636Z"
+  },
+  {
+    "name": "Nourish Cold-Pressed Juice Bar",
+    "description": "Unpasteurized raw juices, wellness shots, organic coconut kefir, and antioxidant acai bowls.",
+    "nodeId": "N15",
+    "address": {
+      "street": "Sector 18 Commercial Complex, Udyog Vihar",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zipCode": "122015",
+      "coordinates": [
+        77.078,
+        28.508
+      ]
+    },
+    "cuisines": [
+      "Cold-Pressed Juices",
+      "Healthy Bowls",
+      "Vegan"
+    ],
+    "rating": 4.85,
+    "totalRatings": 175,
+    "priceRange": "$$",
+    "bannerImage": "https://images.unsplash.com/photo-1610970881699-44a5587cabec?auto=format&fit=crop&w=1200&q=80",
+    "ecoPackagingAvailable": true,
+    "ecoPackagingFee": 10,
+    "mealsRescuedCount": 380,
+    "wastePreventedKg": 133,
+    "deliveryTime": "22 mins",
+    "deliveryFee": 30,
+    "ownerId": "9be5944fa1c890f7ec7eadb7",
+    "status": "approved",
+    "minOrder": 150,
+    "_id": "1f4a1c9363ff37e3c21d4c38",
+    "id": "1f4a1c9363ff37e3c21d4c38",
+    "createdAt": "2026-11-11T06:29:51.636Z",
+    "updatedAt": "2026-11-11T06:29:51.636Z"
+  },
+  {
+    "name": "Brew & Bloom Clean Roastery",
+    "description": "Specialty shade-grown single-origin coffee, almond croissants, and avocado brioche tartines.",
+    "nodeId": "N12",
+    "address": {
+      "street": "Ardee Mall Ground Floor, Sector 52",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zipCode": "122003",
+      "coordinates": [
+        77.082,
+        28.442
+      ]
+    },
+    "cuisines": [
+      "Artisan Bakery",
+      "Cold-Pressed Juices",
+      "Breakfast"
+    ],
+    "rating": 4.8,
+    "totalRatings": 330,
+    "priceRange": "$$",
+    "bannerImage": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=1200&q=80",
+    "ecoPackagingAvailable": true,
+    "ecoPackagingFee": 15,
+    "mealsRescuedCount": 450,
+    "wastePreventedKg": 202.5,
+    "deliveryTime": "18 mins",
+    "deliveryFee": 25,
+    "ownerId": "9be5944fa1c890f7ec7eadb7",
+    "status": "approved",
+    "minOrder": 150,
+    "_id": "e0093aa272bbd7765175ad65",
+    "id": "e0093aa272bbd7765175ad65",
+    "createdAt": "2026-11-11T06:29:51.635Z",
+    "updatedAt": "2026-11-11T06:29:51.635Z"
+  },
+  {
+    "name": "The Himalayan Clay Pot",
+    "description": "Steamed Tibetan dumplings, aromatic nettle thukpa, and buckwheat noodles inspired by Ladakh cuisine.",
+    "nodeId": "N9",
+    "address": {
+      "street": "Emaar Palm Springs Plaza, Golf Course Ext",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zipCode": "122101",
+      "coordinates": [
+        77.095,
+        28.435
+      ]
+    },
+    "cuisines": [
+      "Pan-Asian & Sushi",
+      "Soups",
+      "Healthy Bowls"
+    ],
+    "rating": 4.75,
+    "totalRatings": 210,
+    "priceRange": "$$",
+    "bannerImage": "https://images.unsplash.com/photo-1541832676-9b763b0239ab?auto=format&fit=crop&w=1200&q=80",
+    "ecoPackagingAvailable": true,
+    "ecoPackagingFee": 20,
+    "mealsRescuedCount": 275,
+    "wastePreventedKg": 123.8,
+    "deliveryTime": "30 mins",
+    "deliveryFee": 35,
+    "ownerId": "9be5944fa1c890f7ec7eadb7",
+    "status": "approved",
+    "minOrder": 150,
+    "_id": "40c86c04f9f220aea4a391ce",
+    "id": "40c86c04f9f220aea4a391ce",
+    "createdAt": "2026-11-11T06:29:51.635Z",
+    "updatedAt": "2026-11-11T06:29:51.635Z"
+  },
+  {
+    "name": "Pure Root Macrobiotic Cafe",
+    "description": "Holistic plant-based nutrition, miso broths, steamed greens, and sprouted ancient grains.",
+    "nodeId": "N8",
+    "address": {
+      "street": "Sector 43 Main Market",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zipCode": "122002",
+      "coordinates": [
+        77.068,
+        28.455
+      ]
+    },
+    "cuisines": [
+      "Vegan",
+      "Healthy Bowls",
+      "Macrobiotic"
+    ],
+    "rating": 4.9,
+    "totalRatings": 165,
+    "priceRange": "$$",
+    "bannerImage": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=80",
+    "ecoPackagingAvailable": true,
+    "ecoPackagingFee": 15,
+    "mealsRescuedCount": 410,
+    "wastePreventedKg": 184.5,
+    "deliveryTime": "24 mins",
+    "deliveryFee": 30,
+    "ownerId": "9be5944fa1c890f7ec7eadb7",
+    "status": "approved",
+    "minOrder": 150,
+    "_id": "7e22e98b1b377e788cddb987",
+    "id": "7e22e98b1b377e788cddb987",
+    "createdAt": "2026-11-11T06:29:51.635Z",
+    "updatedAt": "2026-11-11T06:29:51.635Z"
+  },
+  {
+    "name": "Taqueria Verde Organic Tacos",
+    "description": "Fresh corn tortillas, guacamole, chipotle grilled jackfruit bowls, and slow-roasted salsa verde.",
+    "nodeId": "N10",
+    "address": {
+      "street": "South Point Mall, Golf Course Road",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zipCode": "122011",
+      "coordinates": [
+        77.112,
+        28.448
+      ]
+    },
+    "cuisines": [
+      "Mexican",
+      "Healthy Bowls",
+      "Tacos"
+    ],
+    "rating": 4.65,
+    "totalRatings": 180,
+    "priceRange": "$$",
+    "bannerImage": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?auto=format&fit=crop&w=1200&q=80",
+    "ecoPackagingAvailable": true,
+    "ecoPackagingFee": 15,
+    "mealsRescuedCount": 320,
+    "wastePreventedKg": 144,
+    "deliveryTime": "25 mins",
+    "deliveryFee": 35,
+    "ownerId": "9be5944fa1c890f7ec7eadb7",
+    "status": "approved",
+    "minOrder": 150,
+    "_id": "df5f15c371c188886aef5100",
+    "id": "df5f15c371c188886aef5100",
+    "createdAt": "2026-11-11T06:29:51.634Z",
+    "updatedAt": "2026-11-11T06:29:51.634Z"
+  },
+  {
+    "name": "Olive & Fig Mediterranean Kitchen",
+    "description": "Spiced falafel platters, silky tahini hummus, and charred vegetable shish kebabs with warm pita bread.",
+    "nodeId": "N5",
+    "address": {
+      "street": "MGF Metropolitan Mall, MG Road",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zipCode": "122002",
+      "coordinates": [
+        77.08,
+        28.482
+      ]
+    },
+    "cuisines": [
+      "Mediterranean",
+      "Wraps",
+      "Salads",
+      "Healthy Bowls"
+    ],
+    "rating": 4.7,
+    "totalRatings": 195,
+    "priceRange": "$$",
+    "bannerImage": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=1200&q=80",
+    "ecoPackagingAvailable": true,
+    "ecoPackagingFee": 15,
+    "mealsRescuedCount": 290,
+    "wastePreventedKg": 130.5,
+    "deliveryTime": "22 mins",
+    "deliveryFee": 30,
+    "ownerId": "9be5944fa1c890f7ec7eadb7",
+    "status": "approved",
+    "minOrder": 150,
+    "_id": "99546b08dec23548b6ada153",
+    "id": "99546b08dec23548b6ada153",
+    "createdAt": "2026-11-11T06:29:51.634Z",
+    "updatedAt": "2026-11-11T06:29:51.634Z"
+  },
+  {
+    "name": "Zenith Asian Wok & Sushi",
+    "description": "Sustainably sourced salmon nigiri, steam-basket dim sum, and wok-tossed soba noodles in compostable containers.",
+    "nodeId": "N1",
+    "address": {
+      "street": "Building 10B, Cyber Hub, DLF Phase 2",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zipCode": "122002",
+      "coordinates": [
+        77.088,
+        28.495
+      ]
+    },
+    "cuisines": [
+      "Pan-Asian & Sushi",
+      "Sushi",
+      "Japanese",
+      "Healthy Bowls"
+    ],
+    "rating": 4.85,
+    "totalRatings": 520,
+    "priceRange": "$$$",
+    "bannerImage": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=1200&q=80",
+    "ecoPackagingAvailable": true,
+    "ecoPackagingFee": 25,
+    "mealsRescuedCount": 480,
+    "wastePreventedKg": 216,
+    "deliveryTime": "28 mins",
+    "deliveryFee": 40,
+    "ownerId": "9be5944fa1c890f7ec7eadb7",
+    "status": "approved",
+    "minOrder": 150,
+    "_id": "c143c76eb3d3ed3140732f25",
+    "id": "c143c76eb3d3ed3140732f25",
+    "createdAt": "2026-11-11T06:29:51.634Z",
+    "updatedAt": "2026-11-11T06:29:51.634Z"
+  },
+  {
+    "name": "Dakshin Earth Tiffin House",
+    "description": "Fermented ragi dosas, organic ghee podi idlis, and coconut-based traditional coastal delicacies.",
+    "nodeId": "N7",
+    "address": {
+      "street": "Plaza 54, Sushant Lok Phase 1",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zipCode": "122009",
+      "coordinates": [
+        77.076,
+        28.46
+      ]
+    },
+    "cuisines": [
+      "South Indian",
+      "Breakfast",
+      "Healthy Bowls"
+    ],
+    "rating": 4.6,
+    "totalRatings": 420,
+    "priceRange": "$",
+    "bannerImage": "https://images.unsplash.com/photo-1610192244261-3f33de3f55e4?auto=format&fit=crop&w=1200&q=80",
+    "ecoPackagingAvailable": true,
+    "ecoPackagingFee": 10,
+    "mealsRescuedCount": 610,
+    "wastePreventedKg": 274.5,
+    "deliveryTime": "20 mins",
+    "deliveryFee": 25,
+    "ownerId": "9be5944fa1c890f7ec7eadb7",
+    "status": "approved",
+    "minOrder": 150,
+    "_id": "b2b1a0d958dec426903ae9cc",
+    "id": "b2b1a0d958dec426903ae9cc",
+    "createdAt": "2026-11-11T06:29:51.634Z",
+    "updatedAt": "2026-11-11T06:29:51.634Z"
+  },
+  {
+    "name": "Trattoria Bella Terra",
+    "description": "Authentic sourdough Neapolitan pizzas, hand-rolled pasta, and organic basil pestos cooked in eco-friendly ovens.",
+    "nodeId": "N3",
+    "address": {
+      "street": "One Horizon Center, Golf Course Road",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zipCode": "122003",
+      "coordinates": [
+        77.098,
+        28.468
+      ]
+    },
+    "cuisines": [
+      "Italian & Pizza",
+      "Pasta",
+      "Mediterranean"
+    ],
+    "rating": 4.8,
+    "totalRatings": 240,
+    "priceRange": "$$$",
+    "bannerImage": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=1200&q=80",
+    "ecoPackagingAvailable": true,
+    "ecoPackagingFee": 20,
+    "mealsRescuedCount": 310,
+    "wastePreventedKg": 139.5,
+    "deliveryTime": "30 mins",
+    "deliveryFee": 40,
+    "ownerId": "9be5944fa1c890f7ec7eadb7",
+    "status": "approved",
+    "minOrder": 150,
+    "_id": "54c2021f7a0d13c7ac1ed621",
+    "id": "54c2021f7a0d13c7ac1ed621",
+    "createdAt": "2026-11-11T06:29:51.634Z",
+    "updatedAt": "2026-11-11T06:29:51.634Z"
+  },
+  {
+    "name": "Spice Loop Conscious Curry",
+    "description": "Heritage clay pot curries, organic whole-wheat rotis, and sustainable slow-simmered biryanis.",
+    "nodeId": "N4",
+    "address": {
+      "street": "78 Sector 29 Food Hub",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zipCode": "122001",
+      "coordinates": [
+        77.062,
+        28.468
+      ]
+    },
+    "cuisines": [
+      "North Indian",
+      "Curry",
+      "Biryani",
+      "Traditional"
+    ],
+    "rating": 4.7,
+    "totalRatings": 310,
+    "priceRange": "$$",
+    "bannerImage": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=1200&q=80",
+    "ecoPackagingAvailable": true,
+    "ecoPackagingFee": 25,
+    "mealsRescuedCount": 540,
+    "wastePreventedKg": 243.2,
+    "deliveryTime": "30 mins",
+    "deliveryFee": 30,
+    "ownerId": "9be5944fa1c890f7ec7eadb7",
+    "status": "approved",
+    "minOrder": 150,
+    "_id": "8669733682b36ae64168f1b7",
+    "id": "8669733682b36ae64168f1b7",
+    "createdAt": "2026-11-11T06:29:51.634Z",
+    "updatedAt": "2026-11-11T06:29:51.634Z"
+  },
+  {
+    "name": "The Earth Hearth Bakery",
+    "description": "Artisanal sourdough, French viennoiserie, and wholesome whole-grain baguettes baked fresh daily.",
+    "nodeId": "N6",
+    "address": {
+      "street": "15 Silver Oaks Plaza, DLF Phase 1",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zipCode": "122002",
+      "coordinates": [
+        77.102,
+        28.483
+      ]
+    },
+    "cuisines": [
+      "Artisan Bakery",
+      "Desserts",
+      "Breakfast",
+      "Zero-Plastic"
+    ],
+    "rating": 4.9,
+    "totalRatings": 395,
+    "priceRange": "$$",
+    "bannerImage": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=1200&q=80",
+    "ecoPackagingAvailable": true,
+    "ecoPackagingFee": 20,
+    "mealsRescuedCount": 680,
+    "wastePreventedKg": 298,
+    "deliveryTime": "20 mins",
+    "deliveryFee": 35,
+    "ownerId": "9be5944fa1c890f7ec7eadb7",
+    "status": "approved",
+    "minOrder": 150,
+    "_id": "e81c654107d60ffc80222880",
+    "id": "e81c654107d60ffc80222880",
+    "createdAt": "2026-11-11T06:29:51.634Z",
+    "updatedAt": "2026-11-11T06:29:51.634Z"
+  },
+  {
+    "name": "GreenBowl Organic & Bowls",
+    "description": "Farm-fresh superfood bowls, crisp organic salads, and nutrient-dense wraps with zero-waste kitchen practices.",
+    "nodeId": "N2",
+    "address": {
+      "street": "Shop 12, Galleria Market, DLF Phase 4",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "zipCode": "122002",
+      "coordinates": [
+        77.086,
+        28.471
+      ]
+    },
+    "cuisines": [
+      "Healthy Bowls",
+      "Salads",
+      "Vegan",
+      "Eco-Certified"
+    ],
+    "rating": 4.8,
+    "totalRatings": 284,
+    "priceRange": "$$",
+    "bannerImage": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=1200&q=80",
+    "ecoPackagingAvailable": true,
+    "ecoPackagingFee": 15,
+    "mealsRescuedCount": 420,
+    "wastePreventedKg": 189.5,
+    "deliveryTime": "25 mins",
+    "deliveryFee": 30,
+    "ownerId": "9be5944fa1c890f7ec7eadb7",
+    "status": "approved",
+    "minOrder": 150,
+    "_id": "fc941ad0cd80b043a6b792a0",
+    "id": "fc941ad0cd80b043a6b792a0",
+    "createdAt": "2026-11-11T06:29:51.633Z",
+    "updatedAt": "2026-11-11T06:29:51.633Z"
+  }
+]

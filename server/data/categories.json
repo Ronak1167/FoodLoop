@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Cold-Pressed Juices",
+    "slug": "juices",
+    "icon": "CupSoda",
+    "image": "https://images.unsplash.com/photo-1610970881699-44a5587cabec?auto=format&fit=crop&w=400&q=80",
+    "active": true,
+    "_id": "7de245b4d6710c8619a1357e",
+    "id": "7de245b4d6710c8619a1357e",
+    "createdAt": "2026-11-11T06:29:51.633Z",
+    "updatedAt": "2026-11-11T06:29:51.633Z"
+  },
+  {
+    "name": "Mediterranean",
+    "slug": "mediterranean",
+    "icon": "Sun",
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=400&q=80",
+    "active": true,
+    "_id": "6313ea7f046b66992c50529f",
+    "id": "6313ea7f046b66992c50529f",
+    "createdAt": "2026-11-11T06:29:51.633Z",
+    "updatedAt": "2026-11-11T06:29:51.633Z"
+  },
+  {
+    "name": "Pan-Asian & Sushi",
+    "slug": "pan-asian",
+    "icon": "Soup",
+    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=400&q=80",
+    "active": true,
+    "_id": "3fee41233c187debfe19a9fd",
+    "id": "3fee41233c187debfe19a9fd",
+    "createdAt": "2026-11-11T06:29:51.633Z",
+    "updatedAt": "2026-11-11T06:29:51.633Z"
+  },
+  {
+    "name": "South Indian",
+    "slug": "south-indian",
+    "icon": "Coffee",
+    "image": "https://images.unsplash.com/photo-1610192244261-3f33de3f55e4?auto=format&fit=crop&w=400&q=80",
+    "active": true,
+    "_id": "a6c50be8e7fca687b94b90c8",
+    "id": "a6c50be8e7fca687b94b90c8",
+    "createdAt": "2026-11-11T06:29:51.633Z",
+    "updatedAt": "2026-11-11T06:29:51.633Z"
+  },
+  {
+    "name": "Italian & Pizza",
+    "slug": "italian",
+    "icon": "Pizza",
+    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=400&q=80",
+    "active": true,
+    "_id": "c2b984833d3836e2867bbdb0",
+    "id": "c2b984833d3836e2867bbdb0",
+    "createdAt": "2026-11-11T06:29:51.633Z",
+    "updatedAt": "2026-11-11T06:29:51.633Z"
+  },
+  {
+    "name": "North Indian",
+    "slug": "north-indian",
+    "icon": "Utensils",
+    "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=400&q=80",
+    "active": true,
+    "_id": "24533ce090131a4041e38018",
+    "id": "24533ce090131a4041e38018",
+    "createdAt": "2026-11-11T06:29:51.632Z",
+    "updatedAt": "2026-11-11T06:29:51.632Z"
+  },
+  {
+    "name": "Artisan Bakery",
+    "slug": "bakery",
+    "icon": "Croissant",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=400&q=80",
+    "active": true,
+    "_id": "2abfd9acb8e3c15da6e4c9f3",
+    "id": "2abfd9acb8e3c15da6e4c9f3",
+    "createdAt": "2026-11-11T06:29:51.632Z",
+    "updatedAt": "2026-11-11T06:29:51.632Z"
+  },
+  {
+    "name": "Healthy Bowls",
+    "slug": "healthy-bowls",
+    "icon": "Salad",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=400&q=80",
+    "active": true,
+    "_id": "76936cf7e4581afc9e630d16",
+    "id": "76936cf7e4581afc9e630d16",
+    "createdAt": "2026-11-11T06:29:51.632Z",
+    "updatedAt": "2026-11-11T06:29:51.632Z"
+  },
+  {
+    "name": "Surplus Deals",
+    "slug": "surplus",
+    "icon": "Flame",
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=400&q=80",
+    "active": true,
+    "_id": "fc4335056baf56f1979f2195",
+    "id": "fc4335056baf56f1979f2195",
+    "createdAt": "2026-11-11T06:29:51.632Z",
+    "updatedAt": "2026-11-11T06:29:51.632Z"
+  }
+]

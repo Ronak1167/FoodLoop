@@ -1,0 +1,57 @@
+[
+  {
+    "restaurantId": "c143c76eb3d3ed3140732f25",
+    "customerId": "5273fc4ebe0af7a6d7046a07",
+    "customerName": "Manish S.",
+    "rating": 5,
+    "comment": "Zenith sushi roll is fresh and dim sums arrived steam-warm.",
+    "_id": "ef1d6382f5b9321c7d2c8ee1",
+    "id": "ef1d6382f5b9321c7d2c8ee1",
+    "createdAt": "2026-11-11T06:29:51.647Z",
+    "updatedAt": "2026-11-11T06:29:51.647Z"
+  },
+  {
+    "restaurantId": "54c2021f7a0d13c7ac1ed621",
+    "customerId": "5273fc4ebe0af7a6d7046a07",
+    "customerName": "Ritu K.",
+    "rating": 5,
+    "comment": "Authentic Neapolitan crust and super fast EV courier delivery!",
+    "_id": "95196b34da69361a8b0b5e6c",
+    "id": "95196b34da69361a8b0b5e6c",
+    "createdAt": "2026-11-11T06:29:51.647Z",
+    "updatedAt": "2026-11-11T06:29:51.647Z"
+  },
+  {
+    "restaurantId": "8669733682b36ae64168f1b7",
+    "customerId": "5273fc4ebe0af7a6d7046a07",
+    "customerName": "Vikram J.",
+    "rating": 5,
+    "comment": "Clay pot Dum Biryani was piping hot and aromatic. Real SDG 12 impact!",
+    "_id": "6676a2f311ba71110100e97b",
+    "id": "6676a2f311ba71110100e97b",
+    "createdAt": "2026-11-11T06:29:51.646Z",
+    "updatedAt": "2026-11-11T06:29:51.646Z"
+  },
+  {
+    "restaurantId": "e81c654107d60ffc80222880",
+    "customerId": "5273fc4ebe0af7a6d7046a07",
+    "customerName": "Priya N.",
+    "rating": 5,
+    "comment": "The Surplus Pastry Box is the best deal. Packaging was 100% compostable!",
+    "_id": "898839b2078d6401d5009fc3",
+    "id": "898839b2078d6401d5009fc3",
+    "createdAt": "2026-11-11T06:29:51.646Z",
+    "updatedAt": "2026-11-11T06:29:51.646Z"
+  },
+  {
+    "restaurantId": "fc941ad0cd80b043a6b792a0",
+    "customerId": "5273fc4ebe0af7a6d7046a07",
+    "customerName": "Aarav Sharma",
+    "rating": 5,
+    "comment": "Incredible Quinoa bowl through Food Rescue! Fresh and earned 35 eco-points!",
+    "_id": "bd3d37eea40c0828be7a83fe",
+    "id": "bd3d37eea40c0828be7a83fe",
+    "createdAt": "2026-11-11T06:29:51.646Z",
+    "updatedAt": "2026-11-11T06:29:51.646Z"
+  }
+]
