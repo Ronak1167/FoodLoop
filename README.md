@@ -42,6 +42,49 @@ Unlike standard delivery systems that discard surplus meals and send individual 
 
 ---
 
+## 🌐 Live Cloud Deployment & Public Access
+
+FoodLoop is configured for multi-cloud deployment with 1-click automated builds:
+
+### ⚡ 1. Live Instant Public URL
+* **Main Application**: [**`https://86031ce5edeceb.lhr.life`**](https://86031ce5edeceb.lhr.life)
+* **Interactive DSA Visualizer**: [**`https://86031ce5edeceb.lhr.life/dsa-lab`**](https://86031ce5edeceb.lhr.life/dsa-lab)
+* **API Health Check**: [**`https://86031ce5edeceb.lhr.life/api/health`**](https://86031ce5edeceb.lhr.life/api/health)
+
+---
+
+### 🚀 2. 1-Click Free Cloud Deployment
+
+#### Option A: Deploy to Render (Recommended for Full-Stack Node.js)
+FoodLoop includes a pre-configured `render.yaml` blueprint. Click below to deploy a permanent free cloud instance:
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Ronak1167/FoodLoop)
+
+**Manual Render Setup (60 Seconds)**:
+1. Go to [Render Dashboard](https://dashboard.render.com/) and click **New → Web Service**.
+2. Connect your GitHub repository: `https://github.com/Ronak1167/FoodLoop`.
+3. Configure settings:
+   * **Environment**: `Node`
+   * **Build Command**: `npm run render-build`
+   * **Start Command**: `npm start`
+   * **Plan**: `Free`
+4. Click **Deploy Web Service**. Render will build the React frontend, start Express, and assign a permanent URL (e.g. `https://foodloop.onrender.com`).
+
+#### Option B: Deploy with Docker
+```bash
+# Build the multi-stage production container
+docker build -t foodloop .
+
+# Run container on port 5000
+docker run -d -p 5000:5000 --name foodloop-app foodloop
+```
+
+#### Option C: Deploy to Railway / Koyeb
+* Connect `https://github.com/Ronak1167/FoodLoop` to [Railway](https://railway.app/) or [Koyeb](https://www.koyeb.com/).
+* Railway automatically detects the root `Dockerfile` and deploys the full-stack container with SSL.
+
+---
+
 ## 🛠️ System Requirements & Prerequisites
 
 ### Hardware Requirements

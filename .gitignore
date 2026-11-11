@@ -27,3 +27,6 @@ Thumbs.db
 
 # Build temp
 client/.vite-temp/
+
+
+.vercel

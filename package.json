@@ -5,10 +5,12 @@
   "scripts": {
     "start": "node server/src/server.js",
     "server": "node server/src/server.js",
-    "client": "cd client && npm run dev",
-    "build": "cd client && npm run build",
-    "seed": "cd server && npm run seed",
-    "test": "cd server && npm test"
+    "client": "npm --prefix client run dev",
+    "install:all": "npm --prefix server install && npm --prefix client install",
+    "build": "npm --prefix client run build",
+    "render-build": "npm --prefix server install && npm --prefix client install && npm --prefix client run build",
+    "seed": "npm --prefix server run seed",
+    "test": "npm --prefix server test"
   },
   "keywords": [
     "food-delivery",
