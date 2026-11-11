@@ -223,12 +223,12 @@
     "preparationInfo": "Cold-pressed at 11:00 AM in sterile glass bottle. Kept on continuous ice.",
     "safetyGuarantee": "100% Raw unpasteurized juice. Chill below 4°C.",
     "restaurantId": "1f4a1c9363ff37e3c21d4c38",
-    "isAvailable": true,
+    "isAvailable": false,
     "estimatedWasteKg": 0.45,
     "_id": "418b4f2be286680236647d1b",
     "id": "418b4f2be286680236647d1b",
     "createdAt": "2026-11-11T06:29:51.643Z",
-    "updatedAt": "2026-11-11T06:29:51.643Z"
+    "updatedAt": "2026-11-11T09:05:29.485Z"
   },
   {
     "name": "Sourdough Avocado Poached Egg Tartine",
@@ -525,12 +525,12 @@
     "preparationInfo": "Steamed fresh in afternoon service. Packed in palm-leaf eco-box.",
     "safetyGuarantee": "100% Edible and hygienic.",
     "restaurantId": "b2b1a0d958dec426903ae9cc",
-    "isAvailable": true,
+    "isAvailable": false,
     "estimatedWasteKg": 0.45,
     "_id": "f15a93d2a9cef4d1c3e212d4",
     "id": "f15a93d2a9cef4d1c3e212d4",
     "createdAt": "2026-11-11T06:29:51.641Z",
-    "updatedAt": "2026-11-11T06:29:51.641Z"
+    "updatedAt": "2026-11-11T09:05:29.486Z"
   },
   {
     "name": "Traditional Filter Coffee (Flask for 2)",
@@ -612,12 +612,12 @@
     "preparationInfo": "Inspected and boxed in unbleached cardboard pizza box.",
     "safetyGuarantee": "FSSAI Safe Surplus Standard verified.",
     "restaurantId": "54c2021f7a0d13c7ac1ed621",
-    "isAvailable": true,
+    "isAvailable": false,
     "estimatedWasteKg": 0.45,
     "_id": "8ad2e4dfbbf966cea30c8bf5",
     "id": "8ad2e4dfbbf966cea30c8bf5",
     "createdAt": "2026-11-11T06:29:51.640Z",
-    "updatedAt": "2026-11-11T06:29:51.640Z"
+    "updatedAt": "2026-11-11T09:05:29.486Z"
   },
   {
     "name": "Classic Tiramisu al Mascarpone",
@@ -802,12 +802,12 @@
     "preparationInfo": "Baked at 7:30 AM today. Packed in kraft paper bakery bag.",
     "safetyGuarantee": "Bakery surplus inspection verified - crisp, safe and buttery.",
     "restaurantId": "e81c654107d60ffc80222880",
-    "isAvailable": true,
+    "isAvailable": false,
     "estimatedWasteKg": 0.45,
     "_id": "0ee8efba0e9ecbae6f60fa52",
     "id": "0ee8efba0e9ecbae6f60fa52",
     "createdAt": "2026-11-11T06:29:51.639Z",
-    "updatedAt": "2026-11-11T06:29:51.639Z"
+    "updatedAt": "2026-11-11T09:05:29.487Z"
   },
   {
     "name": "Smoked Ham & Aged Gruyere Baguette",
@@ -921,12 +921,12 @@
     "preparationInfo": "Cooked fresh today in lunch shift. Sealed in biodegradable sugarcane containers.",
     "safetyGuarantee": "FSSAI Certified Safe Surplus - 100% edible and fresh.",
     "restaurantId": "fc941ad0cd80b043a6b792a0",
-    "isAvailable": true,
+    "isAvailable": false,
     "estimatedWasteKg": 0.45,
     "_id": "8e8d4a1304d0d9aef7306ec5",
     "id": "8e8d4a1304d0d9aef7306ec5",
     "createdAt": "2026-11-11T06:29:51.638Z",
-    "updatedAt": "2026-11-11T06:29:51.638Z"
+    "updatedAt": "2026-11-11T09:05:29.487Z"
   },
   {
     "name": "Grilled Herb Chicken Protein Bowl",

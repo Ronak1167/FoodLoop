@@ -41,6 +41,23 @@ export async function seedDatabase(force = false) {
     totalWasteSavedKg: 4.1
   });
 
+  // JIIT CSE B.Tech 2nd Year Team Member Accounts (All passwords: password123)
+  const teamMembers = [
+    { name: 'Ronak Jain (2501030128)', email: 'ronak@jiit.ac.in', role: 'admin', rewardPoints: 1280 },
+    { name: 'Pragya Ahlawat (2501030121)', email: 'pragya@jiit.ac.in', role: 'customer', rewardPoints: 1210 },
+    { name: 'Rishabh Tyagi (2501030130)', email: 'rishabh@jiit.ac.in', role: 'restaurant_owner', rewardPoints: 1300 },
+    { name: 'Shobhit Khatana (2501030144)', email: 'shobhit@jiit.ac.in', role: 'delivery_partner', rewardPoints: 1440 }
+  ];
+  for (const tm of teamMembers) {
+    await Users.create({
+      ...tm,
+      password: passwordHash,
+      phone: '+91 98765 00000',
+      dietaryPreference: 'veg',
+      address: { street: 'JIIT Campus, Sector 62', city: 'Noida', state: 'Uttar Pradesh', zipCode: '201309' }
+    });
+  }
+
   const owner1 = await Users.create({
     name: 'Chef Maya Patel',
     email: 'greenbowl@foodloop.com',

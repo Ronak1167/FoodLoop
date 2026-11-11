@@ -1,5 +1,77 @@
 [
   {
+    "name": "Shobhit Khatana (2501030144)",
+    "email": "shobhit@jiit.ac.in",
+    "role": "delivery_partner",
+    "password": "$2a$10$rxau3DZIxpMySskDCwvLaeUDcnKgENd9Ho7njy7Uwr0iQIwQKqzfW",
+    "phone": "+91 98765 00000",
+    "dietaryPreference": "veg",
+    "address": {
+      "street": "JIIT Campus, Sector 62",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "zipCode": "201309"
+    },
+    "_id": "cb86a2bd94c71cc1a40e8c65",
+    "id": "cb86a2bd94c71cc1a40e8c65",
+    "createdAt": "2026-11-11T09:09:54.933Z",
+    "updatedAt": "2026-11-11T09:09:54.933Z"
+  },
+  {
+    "name": "Rishabh Tyagi (2501030130)",
+    "email": "rishabh@jiit.ac.in",
+    "role": "restaurant_owner",
+    "password": "$2a$10$rxau3DZIxpMySskDCwvLaeUDcnKgENd9Ho7njy7Uwr0iQIwQKqzfW",
+    "phone": "+91 98765 00000",
+    "dietaryPreference": "veg",
+    "address": {
+      "street": "JIIT Campus, Sector 62",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "zipCode": "201309"
+    },
+    "_id": "5ddeff1d8005ef0b10452ad9",
+    "id": "5ddeff1d8005ef0b10452ad9",
+    "createdAt": "2026-11-11T09:09:54.932Z",
+    "updatedAt": "2026-11-11T09:09:54.932Z"
+  },
+  {
+    "name": "Pragya Ahlawat (2501030121)",
+    "email": "pragya@jiit.ac.in",
+    "role": "customer",
+    "password": "$2a$10$rxau3DZIxpMySskDCwvLaeUDcnKgENd9Ho7njy7Uwr0iQIwQKqzfW",
+    "phone": "+91 98765 00000",
+    "dietaryPreference": "veg",
+    "address": {
+      "street": "JIIT Campus, Sector 62",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "zipCode": "201309"
+    },
+    "_id": "b44da5430935e6d72684c993",
+    "id": "b44da5430935e6d72684c993",
+    "createdAt": "2026-11-11T09:09:54.932Z",
+    "updatedAt": "2026-11-11T09:09:54.932Z"
+  },
+  {
+    "name": "Ronak Jain (2501030128)",
+    "email": "ronak@jiit.ac.in",
+    "role": "admin",
+    "password": "$2a$10$rxau3DZIxpMySskDCwvLaeUDcnKgENd9Ho7njy7Uwr0iQIwQKqzfW",
+    "phone": "+91 98765 00000",
+    "dietaryPreference": "veg",
+    "address": {
+      "street": "JIIT Campus, Sector 62",
+      "city": "Noida",
+      "state": "Uttar Pradesh",
+      "zipCode": "201309"
+    },
+    "_id": "c6e2c1a8457a5952e95b950f",
+    "id": "c6e2c1a8457a5952e95b950f",
+    "createdAt": "2026-11-11T09:09:54.929Z",
+    "updatedAt": "2026-11-11T09:09:54.929Z"
+  },
+  {
     "name": "Anthea Loop",
     "email": "admin@foodloop.com",
     "password": "$2a$10$96IoTrJPU29q77VXZBwABOZwQIapyNKJbjlyLXEJ8qvhyF14nagMO",

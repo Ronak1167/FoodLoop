@@ -25,6 +25,32 @@
 
 ---
 
+## 🔑 Presentation & Viva Quick Cheat-Sheet: Demo Credentials & Logins
+
+> [!IMPORTANT]
+> **UNIVERSAL PASSWORD FOR ALL ACCOUNTS**: `password123`  
+> All 4 roles and all team member accounts are pre-loaded in the embedded database. On the [Login Page](http://localhost:5000/login), you can either click the **1-Click Autofill Buttons** or log in manually with any email below.
+
+### 👥 Team Member Dedicated Accounts (JIIT Emails)
+| Team Member | Enrollment | Role / Portal | Login Email | Password |
+| :--- | :--- | :--- | :--- | :--- |
+| **Ronak Jain** | `2501030128` | **Platform Admin** (`/admin-dashboard`) | `ronak@jiit.ac.in` | `password123` |
+| **Pragya Ahlawat** | `2501030121` | **Customer / Food Rescue** (`/`) | `pragya@jiit.ac.in` | `password123` |
+| **Rishabh Tyagi** | `2501030130` | **Restaurant Owner** (`/restaurant-dashboard`) | `rishabh@jiit.ac.in` | `password123` |
+| **Shobhit Khatana** | `2501030144` | **Delivery Partner** (`/delivery-dashboard`) | `shobhit@jiit.ac.in` | `password123` |
+
+### 🎭 1-Click Role-Based Demo Accounts
+| Role | Portal / Destination | Email | Password | What You Can Demo |
+| :--- | :--- | :--- | :--- | :--- |
+| **Customer** | `/` (Home & Marketplace) | `customer@foodloop.com` | `password123` | Cart Undo/Redo, Food Rescue discount deals, Group order rooms (`LOOP-XXXX`), BST price filter |
+| **Restaurant Owner** | `/restaurant-dashboard` | `greenbowl@foodloop.com` | `password123` | Live incoming kitchen FIFO queue, publishing surplus meals with Arrhenius decay pricing |
+| **Delivery Partner** | `/delivery-dashboard` | `delivery@foodloop.com` | `password123` | Min-Heap priority queue assignment, live Dijkstra turn-by-turn routing with EV scooter |
+| **Platform Administrator** | `/admin-dashboard` | `admin@foodloop.com` | `password123` | SDG 12 & SDG 9 analytics, orphanages & shelter emergency surplus dispatch via DSU & Bipartite Matching |
+
+👉 **Full 3-Minute Presentation Walkthrough & Model Viva Answers**: See [**`docs/PRESENTATION_CHEATSHEET.md`**](file:///c:/Users/Ronak%20Jain/Downloads/FoodLoop/FoodLoop/docs/PRESENTATION_CHEATSHEET.md)
+
+---
+
 ### 🎯 United Nations Sustainable Development Goals (SDG) Alignment
 * **Primary Goal — SDG 12: Responsible Consumption and Production**:
   * Prevents safe, prepared commercial food from ending up in municipal landfills via real-time Food Rescue discounting.
@@ -328,6 +354,7 @@ FoodLoop/
 │   └── package.json
 │
 ├── docs/                            # Academic Submission Documents
+│   ├── PRESENTATION_CHEATSHEET.md   # Presentation Guide & All Saved Passwords
 │   ├── PROJECT_REPORT.md            # Official 8-Section Final Report
 │   ├── VIDEO_DEMO_SCRIPT.md         # 2–3 Minute Video Submission Script
 │   └── VIVA_PREPARATION_GUIDE.md    # Top 20 Viva Questions & Formula Reference
@@ -354,6 +381,8 @@ All documentation required by the **JIIT Data Structures Lab (PBL) Submission Gu
    * Time-coded 2.5-minute speaking script for recording your team demo video.
 3. **Viva Examination Cheat-Sheet** ([`docs/VIVA_PREPARATION_GUIDE.md`](file:///c:/Users/Ronak%20Jain/Downloads/FoodLoop/FoodLoop/docs/VIVA_PREPARATION_GUIDE.md)):
    * Top 20 viva questions with model answers and quick-reference formula sheet.
+4. **Presentation Cheatsheet & Master Logins** ([`docs/PRESENTATION_CHEATSHEET.md`](file:///c:/Users/Ronak%20Jain/Downloads/FoodLoop/FoodLoop/docs/PRESENTATION_CHEATSHEET.md)):
+   * All saved passwords, role credentials, 3-minute presentation script, and speaker breakdown.
 
 ---
 
