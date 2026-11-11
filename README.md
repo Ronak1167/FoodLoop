@@ -54,9 +54,9 @@ Unlike standard delivery systems that discard surplus meals and send individual 
 FoodLoop is configured for multi-cloud deployment with 1-click automated builds:
 
 ### ⚡ 1. Live Instant Public URL
-* **Main Application**: [**`https://86031ce5edeceb.lhr.life`**](https://86031ce5edeceb.lhr.life)
-* **Interactive DSA Visualizer**: [**`https://86031ce5edeceb.lhr.life/dsa-lab`**](https://86031ce5edeceb.lhr.life/dsa-lab)
-* **API Health Check**: [**`https://86031ce5edeceb.lhr.life/api/health`**](https://86031ce5edeceb.lhr.life/api/health)
+* **Main Application**: [**`https://594fc5b781cbca41-103-225-190-132.serveousercontent.com`**](https://594fc5b781cbca41-103-225-190-132.serveousercontent.com)
+* **Interactive DSA Visualizer**: [**`https://594fc5b781cbca41-103-225-190-132.serveousercontent.com/dsa-lab`**](https://594fc5b781cbca41-103-225-190-132.serveousercontent.com/dsa-lab)
+* **API Health Check**: [**`https://594fc5b781cbca41-103-225-190-132.serveousercontent.com/api/health`**](https://594fc5b781cbca41-103-225-190-132.serveousercontent.com/api/health)
 
 ---
 
